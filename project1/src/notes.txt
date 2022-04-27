@@ -1,0 +1,11 @@
+Sorting Networks (lecture 2/22)
+- special case of comparator networks
+- comparison each time there is a connection
+- top is min, bottom is max (how do i know top from bottom?)
+
+
+Progress report is due 3/4
+Final project is due 3/11
+
+
+
